@@ -2,15 +2,6 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
     xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0">
     
-    <!-- The names of the spreadsheet columns for School of Music Cobcert Programs:
-    (1) title.none
-    (2) filename is OK: this should not be output - the last template should handle this.
-    (3) contributor.other
-    (4) date [no qualifier; DSpace doesn't use date.other]
-    (5) identifier.other
-    (6) description.abstract
-    -->
-    
     <xsl:template match="/">       
             <xsl:for-each select="root/row">
                 <xsl:variable name="dirname" select="./filename/text()"/>
