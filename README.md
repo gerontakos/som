@@ -65,3 +65,5 @@ Required software: oXygen XML Editor, Ruby programming language processor, Saxon
 
 
 15. Once loaded in DSpace, check the files to make sure the PDFs and metadata loaded accurately. If so, you're done; if not, troubleshoot and repair until done.
+
+END
