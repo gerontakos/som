@@ -4,7 +4,7 @@ University Of Washington Libraries
 Written by Theo Gerontakos
 April 24, 2015
 
-Note 2020-05-23: repo is outdated and was never replaced.
+Note 2020-05-23: repo is outdated and will never replaced.
 
 This procedure describes how to get a pdf collection into DSpace. To upload other format collections beside PDFs, this procedure can be altered (the scripts would also have to be altered). This would not be terribly difficult; if you would like assistance, Theo in University Libraries/CaMS is the person to talk to.
 
